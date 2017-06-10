@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mora.Common.Method.Parameter", "Mora.Common.Method.Parameter\Mora.Common.Method.Parameter.csproj", "{421B9F80-A0D0-4D56-B004-6CC06EDE4370}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mora.Common.Vault", "Mora.Common.Vault\Mora.Common.Vault.csproj", "{20671227-825C-4D61-A32A-A11F2F6316DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{421B9F80-A0D0-4D56-B004-6CC06EDE4370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421B9F80-A0D0-4D56-B004-6CC06EDE4370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421B9F80-A0D0-4D56-B004-6CC06EDE4370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20671227-825C-4D61-A32A-A11F2F6316DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20671227-825C-4D61-A32A-A11F2F6316DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20671227-825C-4D61-A32A-A11F2F6316DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20671227-825C-4D61-A32A-A11F2F6316DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
